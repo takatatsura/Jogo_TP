@@ -1,0 +1,22 @@
+PARANOIA
+Mecanica
+ - Andar com as setas
+ - Mirar e atirar com o mouse (caçador)
+ - Andar devagar com SHIFT (TALVEZ)
+ - Barulho --> circulo com raio aumentando e depois some magicamente
+ - Poças d'agua --> fazem barulho a cada passo
+
+Sprite
+ - Circulo
+ - Linha
+ - Passo (TALVEZ) 
+
+Caçador
+ - Arma --> tiro faz barulho e demora pra recarregar (não pode se mover)
+ - A cada cinco passos faz barulho
+
+Presa
+ - Se for acertada pelo tiro do caçador, morre e o jogo acaba
+ - Tem que pegar guizos
+ - A cada quantidade de passos da um sinal de posição
+ - A quantidade de passos do item acima diminui conforme a quantidade de pontos da presa
